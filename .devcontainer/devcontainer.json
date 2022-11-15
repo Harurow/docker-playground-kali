@@ -1,5 +1,5 @@
 {
-  "name": "docker-playground - python",
+  "name": "docker-playground - kali",
   "dockerComposeFile": "docker-compose.yml",
   "service": "playground",
   "workspaceFolder": "/workspace",
